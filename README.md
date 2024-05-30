@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Setacat
 - 👀 I’m interested in learning more about coding 
-- 🌱 I’m currently learning C++ and learning how to use Linux 
+- 🌱 I’m currently learning C++ and how to use Linux 
 
 
 <!---
